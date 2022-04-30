@@ -13,7 +13,7 @@
     ],
     "website": "https://t.me/levinachannel",
     "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "success_url": "https://t.me/Asoresmi",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,16 +47,16 @@
             "description": "fill with your own telegram id, this is needed because there's any feature that only can be used by bot owner",
             "required": true
         },
-        "GROUP_SUPPORT": {
+        "ASO PAYTAXT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true
         },
-        "UPDATES_CHANNEL": {
+        "ASO RESMI": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true
         },
-        "OWNER_USERNAME": {
-            "description": "fill with your telegram account username without @",
+        "Sahibim": {
+            "description": "fill with your telegram account username without @ismiyev95",
             "required": true
         },
         "ALIVE_NAME": {
