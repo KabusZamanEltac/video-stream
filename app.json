@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
+    "website": "https://t.me/ASOresmi",
     "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/Asoresmi",
+    "success_url": "https://t.me/ismiyev95",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
