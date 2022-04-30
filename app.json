@@ -13,7 +13,7 @@
     ],
     "website": "https://levina.gitbook.io/videostreambot/",
     "repository": "https://github.com/levina-lab/VeezStreamBot",
-    "success_url": "https://t.me/levinachannel",
+    "success_url": "https://t.me/Asoresmi",
     "env": {
         "api_id": {
             "description": "your API_ID from my.telegram.org",
